@@ -1,4 +1,4 @@
-# Electronic Voting System using Blockchain and Smart Contracts
+# Electronic Voting System 
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
